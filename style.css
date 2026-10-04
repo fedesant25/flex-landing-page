@@ -108,3 +108,33 @@ button {
     font-weight: bold;
     color: black;
 }
+
+.section-4 {
+    padding: 100px 25px;
+}
+
+.text-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 50px 100px;
+    background-color: rgb(7, 155, 241);
+    border-radius: 8px;
+    color: white;
+}
+
+.cta-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cta-button {
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 8px 32px;
+  width: auto;
+  font-weight: bold;
+}
