@@ -55,3 +55,56 @@ button {
     align-items: center;
     gap: 32px;
 }
+
+.section-2 {
+    height: 350px;
+    align-items: center;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.cards {
+  display: flex;
+  gap: 32px;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 4px solid rgb(7, 155, 241);
+  border-radius: 12px;
+}
+
+.section-3 {
+    background-color: #E5E7EB;
+    Color: #1F2937;
+    Weight: 300;
+    padding: 50px
+}
+
+.quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.quote-author {
+    text-align: end;
+    font-weight: bold;
+    color: black;
+}
